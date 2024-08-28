@@ -1,6 +1,5 @@
 from Numeric_list import *
 
-tamanho = 0
 def linha():
     print("="*90)
 
